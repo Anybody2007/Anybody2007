@@ -44,39 +44,9 @@ Network Engineering
 
 ---
 
-## ⚙️ I’m particularly interested in automation that helps with:
+## 📊 GitHub Stats
 
-* 🌐 Network device configuration
-* 🔥 Firewall and security automation
-* 🔌 REST API integrations
-* 🏗️ Infrastructure provisioning
-* 🔁 Repetitive network operations
-* 🧩 Multi-vendor network automation
-* 📋 Configuration validation
-* 🐧 Linux-based infrastructure
-* ☁️ Cloud networking and infrastructure
-
-The goal isn't simply to write scripts.
-
-The goal is to build **repeatable, predictable and maintainable infrastructure workflows**.
-
-## 🎯 Engineering Interests
-
-```text
-Network Automation
-      ↓
-Infrastructure Automation
-      ↓
-Cloud Networking
-      ↓
-DevOps / NetDevOps
-      ↓
-Reliable & Scalable Infrastructure
-```
-
-I’m especially interested in engineering roles involving:
-
-**Network Automation Engineer** • **Cloud Network Engineer** • **Infrastructure Automation Engineer** • **DevOps Engineer**
+<img src="https://streak-stats.demolab.com?user=Anybody2007&theme=dark" alt="GitHub Streak" />
 
 ---
 
