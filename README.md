@@ -31,11 +31,15 @@ Network Engineering
        │      ├── Linux
        │      └── Virtualisation
        │
-       └── Cloud & DevOps
-              ├── Infrastructure Automation
-              ├── Configuration Management
-              ├── API Integration
-              └── Automated Provisioning
+       ├── DevOps
+       │       ├── Infrastructure Automation
+       │       ├── Configuration Management
+       │       ├── API Integration
+       │       └── Automated Provisioning
+       |── Cloud
+               ├── Azure
+               ├── AWS
+
 ```
 
 ---
@@ -55,64 +59,6 @@ Network Engineering
 The goal isn't simply to write scripts.
 
 The goal is to build **repeatable, predictable and maintainable infrastructure workflows**.
-
----
-
-## 🛠️ Technology Stack
-
-### Network & Security
-
-`Palo Alto` • `Fortinet` • `Cisco` • `MikroTik` * `Netscout-DDoS =`
-
-Routing • Switching • Firewalls • Network Security • DDoS • Network Troubleshooting
-
-### Automation
-
-`Python` • `REST APIs` • `Ansible` • `JSON` • `YAML` * `Teraform`
-
-Network Automation • API Automation • Configuration Automation • Infrastructure as Code
-
-### Infrastructure & Virtualisation
-
-`VMware` • `VxRail` • `Linux`
-
-Virtualisation • Infrastructure Management • Systems Administration
-
-### Cloud & DevOps
-
-Cloud Networking • Infrastructure Automation • Configuration Management • Automated Provisioning • DevOps Practices
-
----
-
-## 🔨 What I'm Building
-
-My repositories focus on solving real infrastructure and networking problems through automation.
-
-```python
-while repetitive_task:
-    automate()
-    validate()
-    improve()
-```
-
-Areas I'm actively working on include:
-
-**Network Automation**
-Automating network and firewall operations using Python, APIs and Ansible.
-
-**Multi-Vendor Automation**
-Building workflows that interact with infrastructure from multiple network and security vendors.
-
-**Infrastructure as Code**
-Moving infrastructure configuration toward repeatable and version-controlled workflows.
-
-**API-Driven Infrastructure**
-Using REST APIs to configure, retrieve, validate and manage infrastructure programmatically.
-
-**Reliable Automation**
-Building proper logging, validation, exception handling and error recovery into automation rather than treating them as an afterthought.
-
----
 
 ## 🎯 Engineering Interests
 
