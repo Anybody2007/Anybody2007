@@ -1,12 +1,10 @@
 # Hi, I'm Arijit Sarkar 👋
 
-### Network Automation Engineer | Network Engineer | Infrastructure Automation | DevOps & Cloud
+### Automation Engineer | Network Engineer | Infrastructure Automation | DevOps & Cloud
 
 I’m a network and infrastructure engineer focused on turning **manual, repetitive infrastructure operations into reliable automation**.
 
 My background spans enterprise networking, firewalls, Linux, virtualization, and infrastructure, while my current focus is building automation using **Python, REST APIs, Ansible, and Infrastructure as Code principles**.
-
-> **Travel to a safer world where automation keeps your infrastructure and network secure, consistent, and scalable.**
 
 ---
 
@@ -42,16 +40,7 @@ Network Engineering
 
 ---
 
-## ⚙️ My Automation Philosophy
-
-If an engineer has to perform the same task repeatedly, I start asking:
-
-**Can Python automate it?**
-**Does the platform expose an API?**
-**Can Ansible make it repeatable?**
-**Can validation prevent human error?**
-
-I’m particularly interested in automation that helps with:
+## ⚙️ I’m particularly interested in automation that helps with:
 
 * 🌐 Network device configuration
 * 🔥 Firewall and security automation
@@ -73,13 +62,13 @@ The goal is to build **repeatable, predictable and maintainable infrastructure w
 
 ### Network & Security
 
-`Palo Alto` • `Fortinet` • `Cisco` • `MikroTik`
+`Palo Alto` • `Fortinet` • `Cisco` • `MikroTik` * `Netscout-DDoS =`
 
 Routing • Switching • Firewalls • Network Security • DDoS • Network Troubleshooting
 
 ### Automation
 
-`Python` • `REST APIs` • `Ansible` • `JSON` • `YAML`
+`Python` • `REST APIs` • `Ansible` • `JSON` • `YAML` * `Teraform`
 
 Network Automation • API Automation • Configuration Automation • Infrastructure as Code
 
@@ -145,29 +134,6 @@ I’m especially interested in engineering roles involving:
 
 ---
 
-## 📚 Currently Exploring
-
-I believe strong automation engineers should understand both sides of the equation:
-
-```text
-Networking Knowledge + Software Engineering
-                    ↓
-             Better Automation
-```
-
-So I continuously work on improving my knowledge of:
-
-* Python software design
-* Exception handling & resilient automation
-* REST API architecture
-* Network automation patterns
-* Infrastructure as Code
-* Linux
-* Cloud networking
-* DevOps engineering practices
-
----
-
 ## 🤝 Let's Connect
 
 🌐 **Website:** arijitsarkar.co.in
@@ -175,9 +141,3 @@ So I continuously work on improving my knowledge of:
 💼 **LinkedIn:** Arijit Sarkar
 
 If you're working on **network automation, infrastructure automation, cloud networking, NetDevOps, or API-driven infrastructure**, I'd be happy to connect.
-
----
-
-### ⚡ One principle I try to follow
-
-> **Don't automate just because you can. Automate when it makes infrastructure safer, repeatable, and easier to operate.**
