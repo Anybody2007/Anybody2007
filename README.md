@@ -6,10 +6,6 @@ I’m a network and infrastructure engineer focused on turning **manual, repetit
 
 My background spans enterprise networking, firewalls, Linux, virtualization, and infrastructure, while my current focus is building automation using **Python, REST APIs, Ansible, and Infrastructure as Code principles**.
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Anybody2007&show_icons=true&theme=dark&hide_border=true"
-  alt="GitHub Stats"
-/>
 
 ---
 
@@ -51,7 +47,20 @@ Network Engineering
 
 ## 📊 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=Anybody2007&theme=dark" alt="GitHub Streak" />
+<!-- <img src="https://streak-stats.demolab.com?user=&theme=dark" alt="GitHub Streak" />
+## 📊 GitHub Stats -->
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Anybody2007&show_icons=true&theme=dark&hide_border=true"
+  alt="GitHub Stats"
+/>
+
+## 💻 Most Used Languages
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anybody2007&layout=compact&theme=dark&hide_border=true"
+  alt="Top Languages"
+/>
 
 ---
 
