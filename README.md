@@ -50,7 +50,7 @@ Network Engineering
 <!-- <img src="https://streak-stats.demolab.com?user=&theme=dark" alt="GitHub Streak" />
 ## 📊 GitHub Stats -->
 
-<img
+<!-- <img
   src="https://github-readme-stats.vercel.app/api?username=Anybody2007&show_icons=true&theme=dark&hide_border=true"
   alt="GitHub Stats"
 />
@@ -60,7 +60,7 @@ Network Engineering
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anybody2007&layout=compact&theme=dark&hide_border=true"
   alt="Top Languages"
-/>
+/> -->
 
 ---
 
