@@ -47,7 +47,7 @@ Network Engineering
 
 ## 📊 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=Anybody2007&theme=dark" alt="GitHub Streak" />
+[<img src="https://streak-stats.demolab.com?user=Anybody2007&theme=dark" alt="GitHub Streak" />](https://streak-stats.demolab.com/?user=Anybody2007&theme=dark)
 
 <!-- <img
   src="https://github-readme-stats.vercel.app/api?username=Anybody2007&show_icons=true&theme=dark&hide_border=true"
